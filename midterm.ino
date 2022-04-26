@@ -194,15 +194,20 @@ btob:
 
     while (have == 1 && r_col != 0 && r_row == 3)
     {
+      
       linefollow();
       if (s == 1)
       {
         forward();
         forward();
         forward();
+        
+        
         stop();
         r_row = 1;
+        s=0;
       }
+      
       if (s == 1 && r_row == 1)
       {
         prizm.setMotorSpeeds(-200, -200);
