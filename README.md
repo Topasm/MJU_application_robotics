@@ -7,5 +7,3 @@ TETRIX base
 2. 2x ir sensor
 3. 1x ultrasonic sensor
 4. 1x husky lens
-
-https://github.com/Topasm/MJU_application_robotics/blob/main/map.png?raw=true
