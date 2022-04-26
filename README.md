@@ -8,5 +8,6 @@ TETRIX base
 3. 1x ultrasonic sensor
 4. 1x husky lens
 
+![map](https://user-images.githubusercontent.com/24962064/165251489-2a8bdb1f-e648-4f5d-a885-6e9a5c4b629e.png)
 
 ![robot](https://user-images.githubusercontent.com/24962064/165251336-0bda22e8-2345-4740-b338-d6ee66c20f3e.jpg)
