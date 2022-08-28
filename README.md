@@ -16,3 +16,7 @@ https://www.youtube.com/watch?v=_WEmjIFHneM
 
 
 ![gazebo](https://user-images.githubusercontent.com/24962064/187068247-ce9144d3-bd10-4d32-936f-7e3ba73280d5.png)
+
+로봇 위치와 가제보 시뮬레이션 상 위치 동기화
+
+해당 코드에서는 출발-경유-도착 위치만 같도록 
